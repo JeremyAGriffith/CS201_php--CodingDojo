@@ -1,4 +1,4 @@
 CS201_php--CodingDojo
 =====================
 
-PHP fundamentals
+PHP fundamentals && advanced MySQL backend connections
